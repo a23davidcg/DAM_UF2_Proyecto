@@ -2,26 +2,23 @@
 
 ## PRESENTACIÓN/RESUMEN
 
-- Título. 
-- Concepto: descripción breve (un párrafo) de las ideas principales del juego
+- Jumping dot
+- Concepto: Similar al floppy bird pero en vertical
 - Género (puede ser más de uno)
-- Público (target audience)
-- Plataforma (PC, smartphone, tablet,...)
+- Público general
+- Plataforma Smartphone y tablet
 
 
 ## GAMEPLAY
 
 ### Objetivos
 
-Descripción de cuáles son los objetivos principales (y secundarios si los hay) del juego
+Objetivo llegar a "meta" antes de que finalice el tiempo
 
 #### Jugabilidad
 
-Descripción de la interacción y experiencia del jugador. Sistemas de premios o recompensas. Puzzles,...
+El juego irá incrementando la dificultad a medida que se cambia de escena, es decir, cada vez que se alcanza el final de la escena se cambian ciertos parametros como velocidades, generación de obstáculos....
 
-### Progresión
-
-Avance entre las distintas fases (si las hay) del juego.
 
 ### GUI
 
@@ -29,10 +26,10 @@ Descripción del GUI y de la información mostrada al jugador durante el desarro
 
 ## MECÁNICAS
 
-- Reglas: condiciones de victoria, condiciones de pérdida, reglas de combate,...
-- Interacción: controles e interacción del jugador con el personaje, acciones posibles, interacción con otros elementos o personajes,...
-- Puntaje: sistema de puntaje
-- Dificultad: parámetros de dificultad progresiva
+- Reglas: Para ganar será necesario llegar al final de cada escena, lo que ototgará al usuario una puntuacion en base al tiempo que le lleva alcanzar tal límite
+- Interacción: se interacciona pulsando en la pantalla para que salte y se mueva a la derecha o a la izquierda
+- Puntaje: en base a los tiempos a mayor tiempo usado, menor será la puntuación y a la inversa
+- Dificultad: aumento de velocidad de movimiento del personaje lo que dificulta su jugabilidad al igual que la reduccion de tiempos para llegar al final
 
 ## ELEMENTOS DEL VIDEOJUEGO
 
@@ -43,11 +40,10 @@ Caracterización del mundo/entorno en el que se desarrolla el videojuego (Worldb
 - Personajes: descripción, arte,...
 - Niveles
 - Elementos culturales o geográficos
-- ...
+
 
 ## ASSETS
 
 - Música
 - Efectos de sonido
-- Modelos 2D/3D
-- ...
+- Modelos 2D
