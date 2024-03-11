@@ -4,7 +4,7 @@
 
 - Jumping dot
 - Concepto: Similar al floppy bird pero en vertical
-- Género (puede ser más de uno)
+- Género acción casual
 - Público general
 - Plataforma Smartphone y tablet
 
